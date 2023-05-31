@@ -90,7 +90,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>{pkg.appName}</title>
+        <title>ST Scribble Diffusion</title>
         <meta name="description" content={pkg.appMetaDescription} />
         <meta property="og:title" content={pkg.appName} />
         <meta property="og:description" content={pkg.appMetaDescription} />
